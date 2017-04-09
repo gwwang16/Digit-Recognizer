@@ -1,4 +1,10 @@
+.floydexpt
+.floydignore
+.ipynb_checkpoints
+
+
 # Windows image file caches
+.gitattributes
 Thumbs.db
 ehthumbs.db
 
