@@ -1,4 +1,4 @@
-# Digit-Recognizer
+# [Digit-Recognizer](https://www.kaggle.com/c/digit-recognizer)
 
 Kaggle - Learn computer vision fundamentals with the famous MNIST data
 
