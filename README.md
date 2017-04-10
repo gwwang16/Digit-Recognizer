@@ -2,7 +2,7 @@
 
 Kaggle - Learn computer vision fundamentals with the famous MNIST data
 
-A simple CNN with over 99% accuracy. Top 10%
+A simple CNN with over 99.45% accuracy. Top 100
 
 ## Requirement:
 
